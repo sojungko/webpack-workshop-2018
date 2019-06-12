@@ -14,3 +14,4 @@ const makeButton = buttonName => {
 };
 
 module.exports = makeButton;
+// export default makeButton;
